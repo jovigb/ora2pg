@@ -10,3 +10,7 @@ docker build -t ora2pg .
 docker run -i -t --rm -v /root/docker_img:/opt/docker_img --name ora2pg ora2pg
 
 time ora2pg -c ora2pg_schema.conf
+
+# reference
+https://www.cnblogs.com/lottu/p/9114959.html
+https://cloud.tencent.com/developer/article/1545260
