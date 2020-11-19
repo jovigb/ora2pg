@@ -13,4 +13,5 @@ time ora2pg -c ora2pg_schema.conf
 
 # reference
 https://www.cnblogs.com/lottu/p/9114959.html
+
 https://cloud.tencent.com/developer/article/1545260
